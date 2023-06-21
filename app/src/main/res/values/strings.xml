@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Compose Mahasiswa</string>
+    <string name="detail_course">Detail Mata Kuliah</string>
+    <string name="back">Back</string>
+    <string name="course_field">"Mata Kuliah: "</string>
+    <string name="lecturer_field">"Dosen: "</string>
+    <string name="student_id">"NIM: "</string>
+    <string name="name">"NAMA: "</string>
+    <string name="find">Cari</string>
+    <string name="nim">Nim</string>
+    <string name="nama">Nama</string>
+    <string name="course">Mata Kuliah</string>
+    <string name="nid_field">Nid: </string>
 </resources>
